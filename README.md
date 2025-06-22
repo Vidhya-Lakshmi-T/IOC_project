@@ -21,7 +21,7 @@ A full-stack web application that allows users to book services and admins to ma
 - View booking status
 
 🔐 Admin Features
-- Login as admin
+- Login as admin(passcode: admin123)
 - View and manage all bookings
 - Approve or reject service requests
 - Add new services and providers
