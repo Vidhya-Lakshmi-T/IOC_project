@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6857e740304b8c8721577149"
+  },
+  "name": "Electrician",
+  "description": "Expert electrical repair and installation services.",
+  "image": "/images/electrician.jpg"
+},
+{
+  "_id": {
+    "$oid": "6857e78c304b8c872157714b"
+  },
+  "name": "Plumbing",
+  "description": "Professional plumbing and pipe fixing.",
+  "image": "/images/plumber.jpg"
+},
+{
+  "_id": {
+    "$oid": "6857e7f4304b8c872157714d"
+  },
+  "name": "Cleaning",
+  "description": "Residential and commercial cleaning solutions.",
+  "image": "/images/cleaning.jpg"
+},
+{
+  "_id": {
+    "$oid": "6857e86b304b8c872157714f"
+  },
+  "name": "AC Repair",
+  "description": "Air conditioner service and maintenance.",
+  "image": "/images/ac.jpg"
+}]

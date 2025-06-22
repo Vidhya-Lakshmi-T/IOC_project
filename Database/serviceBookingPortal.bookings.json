@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "6857ea9c304b8c872157715e"
+  },
+  "customerName": "Priya Anand",
+  "phone": "9123456780",
+  "serviceId": {
+    "$oid": "6857e86b304b8c872157714f"
+  },
+  "date": "2025-06-25",
+  "time": "03:30",
+  "status": "rejected"
+},
+{
+  "_id": {
+    "$oid": "6857eb7b4323e715f227d5a2"
+  },
+  "customerName": "Shree",
+  "serviceId": {
+    "$oid": "6857e7f4304b8c872157714d"
+  },
+  "date": "2025-06-29",
+  "time": "17:10",
+  "status": "approved",
+  "__v": 0,
+  "phone": "9365421082"
+},
+{
+  "_id": {
+    "$oid": "6857eba04323e715f227d5a8"
+  },
+  "customerName": "Tom",
+  "serviceId": {
+    "$oid": "6857e86b304b8c872157714f"
+  },
+  "date": "2025-07-02",
+  "time": "12:30",
+  "status": "pending",
+  "__v": 0,
+  "phone": "9789568684"
+},
+{
+  "_id": {
+    "$oid": "6857ec0a4323e715f227d5be"
+  },
+  "customerName": "Divya",
+  "serviceId": {
+    "$oid": "6857e740304b8c8721577149"
+  },
+  "date": "2025-07-02",
+  "time": "10:15",
+  "status": "approved",
+  "__v": 0,
+  "phone": "8220610548"
+},
+{
+  "_id": {
+    "$oid": "6857eb614323e715f227d59c"
+  },
+  "customerName": "Balaji",
+  "phone": "9876543210",
+  "serviceId": {
+    "$oid": "6857e740304b8c8721577149"
+  },
+  "date": "2025-06-23",
+  "time": "10:01",
+  "status": "pending",
+  "__v": 0
+}]

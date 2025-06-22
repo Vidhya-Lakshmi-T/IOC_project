@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6857c52f304b8c8721577145"
+  },
+  "name": "Ravi Kumar",
+  "service": "Electrician",
+  "phone": "9876543210",
+  "email": "ravi@example.com",
+  "startTime": "09:00",
+  "endTime": "17:00"
+},
+{
+  "_id": {
+    "$oid": "6857e905304b8c8721577152"
+  },
+  "name": "Arun Das",
+  "service": "Plumbing",
+  "phone": "9123456789",
+  "email": "arun.plumber@example.com",
+  "startTime": "08:30",
+  "endTime": "17:30"
+},
+{
+  "_id": {
+    "$oid": "6857e917304b8c8721577154"
+  },
+  "name": "Meena Raj",
+  "service": "Plumbing",
+  "phone": "9001234567",
+  "email": "meena.plumbwork@example.com",
+  "startTime": "10:00",
+  "endTime": "18:00"
+},
+{
+  "_id": {
+    "$oid": "6857e928304b8c8721577156"
+  },
+  "name": "Suresh Kumar",
+  "service": "Cleaning",
+  "phone": "9898989898",
+  "email": "suresh.cleaning@example.com",
+  "startTime": "09:00",
+  "endTime": "16:00"
+},
+{
+  "_id": {
+    "$oid": "6857e936304b8c8721577158"
+  },
+  "name": "Priya",
+  "service": "Cleaning",
+  "phone": "9876098760",
+  "email": "priya.clean@example.com",
+  "startTime": "07:30",
+  "endTime": "15:30"
+}]

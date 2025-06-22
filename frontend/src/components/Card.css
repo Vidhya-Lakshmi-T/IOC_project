@@ -1,0 +1,44 @@
+.card {
+  background: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem;
+  width: 250px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+.provider-info {
+  background: #f0f4f8;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+.provider-info ul {
+  padding-left: 20px;
+}
+
+.no-providers {
+  color: red;
+  font-weight: bold;
+}
+.no-providers::before {
+  content: "No providers available";
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
